@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "6FDF8D18D1A823C679E255FA8C601F40",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.junit4ks.IgnoreRestSupportRunner",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
